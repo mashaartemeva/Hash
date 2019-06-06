@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\HashTask-master\HashTable\bin\Debug\HashTable.exe.config
+C:\Users\admin\Desktop\HashTask-master\HashTable\bin\Debug\HashTable.exe
+C:\Users\admin\Desktop\HashTask-master\HashTable\bin\Debug\HashTable.pdb
+C:\Users\admin\Desktop\HashTask-master\HashTable\obj\Debug\HashTable.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\HashTask-master\HashTable\obj\Debug\HashTable.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\HashTask-master\HashTable\obj\Debug\HashTable.exe
+C:\Users\admin\Desktop\HashTask-master\HashTable\obj\Debug\HashTable.pdb
